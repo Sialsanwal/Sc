@@ -1,0 +1,38 @@
+{
+            "name": "all",
+            "models": [
+                {
+                    "name": "Air Force 1"
+                },
+                {
+                    "name"  : "Air Jordan 1"
+                },
+                {
+                    "name": "Air Jordan 1"
+                },
+                {
+                    "name": "Air Max 90"
+                },
+                {
+                    "name": "Blazer"
+                },
+                {
+                    "name": "Chuck 70"
+                },
+                {
+                    "name": "Chuck Taylor All Star"
+                },
+                {
+                    "name": "Dunk"
+                },
+                {
+                    "name": "NMD Runner"
+                },
+                {
+                    "name": "Superstar"
+                },
+                {
+                    "name": "UltraBoost"
+                }
+            ]
+        }

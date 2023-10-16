@@ -1,0 +1,785 @@
+{
+    "brands": [
+        {
+            "name": "adidas",
+            "models": [
+                {
+                    "name": "Adilette"
+                },
+                {
+                    "name": "Campus"
+                },
+                {
+                    "name": "Forum"
+                },
+                {
+                    "name": "Nizza"
+                },
+                {
+                    "name": "NMD Runner"
+                },
+                {
+                    "name": "Ozweego"
+                },
+                {
+                    "name": "Stan Smith"
+                },
+                {
+                    "name": "Superstar"
+                },
+                {
+                    "name": "UltraBoost"
+                },
+                {
+                    "name": "Yeezy Boost 350"
+                }
+            ]
+        }, 
+        {
+            "name": "Air Jordan",
+            "models": [
+                {
+                    "name": "Air Jordan 1"
+                },
+                {
+                    "name": "Air Jordan 2"
+                },
+                {
+                    "name": "Air Jordan 3"
+                },
+                {
+                    "name": "Air Jordan 4"
+                },
+                {
+                    "name": "Air Jordan 5"
+                },
+                {
+                    "name": "Air Jordan 6"
+                },
+                {
+                    "name": "Air Jordan 7"
+                },
+                {
+                    "name": "Air Jordan 11"
+                },
+                {
+                    "name": "Air Jordan 12"
+                },
+                {
+                    "name": "Air Jordan 13"
+                }
+            ]
+        }, 
+        {
+            "name": "ASICS",
+            "models": [
+                {
+                    "name": "Gel Contend"
+                },
+                {
+                    "name": "Gel Cumulus"
+                },
+                {
+                    "name": "Gel Excite"
+                },
+                {
+                    "name": "Gel Kayano"
+                },
+                {
+                    "name": "Gel Lyte 3"
+                },
+                {
+                    "name": "Gel Nimbus"
+                },
+                {
+                    "name": "Gel Quantum 360"
+                },
+                {
+                    "name": "GT 1000"
+                },
+                {
+                    "name": "GT 2000"
+                },
+                {
+                    "name": "Japan"
+                }
+            ]
+        }, 
+        {
+            "name": "Converse",
+            "models": [
+                {
+                    "name": "All Star Pro BB"
+                },
+                {
+                    "name": "Chuck 70"
+                },
+                {
+                    "name": "Chuck Taylor All Star"
+                },
+                {
+                    "name": "G4"
+                },
+                {
+                    "name": "Jack Purcell"
+                },
+                {
+                    "name": "Louie Lopez Pro"
+                },
+                {
+                    "name": "One Star"
+                },
+                {
+                    "name": "Pro Leather"
+                },
+                {
+                    "name": "Run Star"
+                },
+                {
+                    "name": "Skid Grip"
+                }
+            ]
+        }, 
+        {
+            "name": "New Balance",
+            "models": [
+                {
+                    "name": "57/40"
+                },
+                {
+                    "name": "237"
+                },
+                {
+                    "name": "327"
+                },
+                {
+                    "name": "550"
+                },
+                {
+                    "name": "574"
+                },
+                {
+                    "name": "860"
+                },
+                {
+                    "name": "880"
+                },
+                {
+                    "name": "1080"
+                },
+                {
+                    "name": "2002R"
+                },
+                {
+                    "name": "Fresh Foam Arishi"
+                }
+                
+            ]
+        }, 
+        {
+            "name": "Nike",
+            "models": [
+                {
+                    "name": "Air Force 1"
+                },
+                {
+                    "name": "Air Max 1"
+                },
+                {
+                    "name": "Air Max 90"
+                },
+                {
+                    "name": "Air Max 95"
+                },
+                {
+                    "name": "Air Max 97"
+                },
+                {
+                    "name": "Air Max 270"
+                },
+                {
+                    "name": "Air VaporMax"
+                },
+                {
+                    "name": "Blazer"
+                },
+                {
+                    "name": "Dunk"
+                },
+                {
+                    "name": "Dunk SB"
+                }
+                
+            ]
+        }, 
+        {
+            "name": "Puma",
+            "models": [
+                {
+                    "name": "Cali"
+                },
+                {
+                    "name": "Future Rider"
+                },
+                {
+                    "name": "Mayze"
+                },
+                {
+                    "name": "Ralph Sampson"
+                },
+                {
+                    "name": "Rider FV"
+                },
+                {
+                    "name": "Roma"
+                },
+                {
+                    "name": "RS-X"
+                },
+                {
+                    "name": "Slipstream"
+                },
+                {
+                    "name": "Smash"
+                },
+                {
+                    "name": "Suede"
+                }
+            ]
+        }, 
+        {
+            "name": "Reebok",
+            "models": [
+                {
+                    "name": "Club C"
+                },
+                {
+                    "name": "Floatride"
+                },
+                {
+                    "name": "InstaPump Fury"
+                },
+                {
+                    "name": "Nano X1"
+                },
+                {
+                    "name": "Nano X2"
+                },
+                {
+                    "name": "Pump Omni"
+                },
+                {
+                    "name": "Question"
+                },
+                {
+                    "name": "Reebok Classic"
+                },
+                {
+                    "name": "Reebok Classic Legacy"
+                },
+                {
+                    "name": "Zig Kinetica"
+                }
+            ]
+        }, 
+        {
+            "name": "Under Armour",
+            "models": [
+                {
+                    "name": "Charged Pursuit"
+                },
+                {
+                    "name": "Charged Rogue"
+                },
+                {
+                    "name": "Curry 1"
+                },
+                {
+                    "name": "Harper 7"
+                },
+                {
+                    "name": "HOVR Infinite"
+                },
+                {
+                    "name": "HOVR Machina"
+                },
+                {
+                    "name": "HOVR Phantom"
+                },
+                {
+                    "name": "HOVR Phantom 3"
+                },
+                {
+                    "name": "Ignite Slide"
+                },
+                {
+                    "name": "Surge"
+                }
+            ]
+        }, 
+        {
+            "name": "Vans",
+            "models": [
+                {
+                    "name": "Atwood"
+                },
+                {
+                    "name": "Authentic"
+                },
+                {
+                    "name": "Chukka"
+                },
+                {
+                    "name": "Era"
+                },
+                {
+                    "name": "Half Cab"
+                },
+                {
+                    "name": "Old Skool"
+                },
+                {
+                    "name": "Sk8"
+                },
+                {
+                    "name": "Slip-On"
+                },
+                {
+                    "name": "Style 36"
+                },
+                {
+                    "name": "Ward"
+                }
+            ]
+        }
+    ], 
+    "shoe_condition": [
+        {
+            "name": "new_with_defects"
+        },
+        {
+            "name": "new_no_defects"
+        },
+        {
+            "name": "used"
+        }
+    ], 
+    "size_us_men": [
+        {
+            "name": "2"
+        },
+        {
+            "name": "2.5"
+        },
+        {
+            "name": "3"
+        },
+        {
+            "name": "3.5"
+        },
+        {
+            "name": "4"
+        },
+        {
+            "name": "4.5"
+        },
+        {
+            "name": "5"
+        },
+        {
+            "name": "5.5"
+        },
+        {
+            "name": "6"
+        },
+        {
+            "name": "6.5"
+        },
+        {
+            "name": "7"
+        },
+        {
+            "name": "7.5"
+        },
+        {
+            "name": "8"
+        },
+        {
+            "name": "8.5"
+        },
+        {
+            "name": "9"
+        },
+        {
+            "name": "9.5"
+        },
+        {
+            "name": "10"
+        },
+        {
+            "name": "10.5"
+        },
+        {
+            "name": "11"
+        },
+        {
+            "name": "11.5"
+        },
+        {
+            "name": "12"
+        },
+        {
+            "name": "12.5"
+        },
+        {
+            "name": "13"
+        },
+        {
+            "name": "13.5"
+        },
+        {
+            "name": "14"
+        },
+        {
+            "name": "14.5"
+        },
+        {
+            "name": "15"
+        },
+        {
+            "name": "15.5"
+        },
+        {
+            "name": "16"
+        },
+        {
+            "name": "16.5"
+        },
+        {
+            "name": "17"
+        },
+        {
+            "name": "17.5"
+        },
+        {
+            "name": "18"
+        },
+        {
+            "name": "18.5"
+        },
+        {
+            "name": "19"
+        },
+        {
+            "name": "19.5"
+        },
+        {
+            "name": "20"
+        },
+        {
+            "name": "44"
+        }
+    ], 
+    "size_us_women": [
+        {
+            "name": "3"
+        },
+        {
+            "name": "3.5"
+        },
+        {
+            "name": "4"
+        },
+        {
+            "name": "4.5"
+        },
+        {
+            "name": "5"
+        },
+        {
+            "name": "5.5"
+        },
+        {
+            "name": "6"
+        },
+        {
+            "name": "6.5"
+        },
+        {
+            "name": "7"
+        },
+        {
+            "name": "7.5"
+        },
+        {
+            "name": "8"
+        },
+        {
+            "name": "8.5"
+        },
+        {
+            "name": "9"
+        },
+        {
+            "name": "9.5"
+        },
+        {
+            "name": "10"
+        },
+        {
+            "name": "10.5"
+        },
+        {
+            "name": "11"
+        },
+        {
+            "name": "11.5"
+        },
+        {
+            "name": "12"
+        },
+        {
+            "name": "12.5"
+        },
+        {
+            "name": "13"
+        },
+        {
+            "name": "13.5"
+        },
+        {
+            "name": "14"
+        },
+        {
+            "name": "14.5"
+        },
+        {
+            "name": "15"
+        },
+        {
+            "name": "15.5"
+        },
+        {
+            "name": "16"
+        },
+        {
+            "name": "16.5"
+        },
+        {
+            "name": "17"
+        },
+        {
+            "name": "17.5"
+        },
+        {
+            "name": "18"
+        },
+        {
+            "name": "19"
+        },
+        {
+            "name": "20"
+        },
+        {
+            "name": "36"
+        },
+        {
+            "name": "37"
+        }
+    ],
+    "size_us_youth": [
+    {
+        "name": "1"
+    },
+    {
+        "name": "1.5"
+    },
+    {
+        "name": "2"
+    },
+    {
+        "name": "2.5"
+    },
+    {
+        "name": "3"
+    },
+    {
+        "name": "3.5"
+    },
+    {
+        "name": "4"
+    },
+    {
+        "name": "4.5"
+    },
+    {
+        "name": "5"
+    },
+    {
+        "name": "5.5"
+    },
+    {
+        "name": "6"
+    },
+    {
+        "name": "6.5"
+    },
+    {
+        "name": "7"
+    },
+    {
+        "name": "7.5"
+    },
+    {
+        "name": "8"
+    },
+    {
+        "name": "8.5"
+    },
+    {
+        "name": "9"
+    },
+    {
+        "name": "9.5"
+    },
+    {
+        "name": "10"
+    },
+    {
+        "name": "10.5"
+    },
+    {
+        "name": "11"
+    },
+    {
+        "name": "11.5"
+    },
+    {
+        "name": "12"
+    },
+    {
+        "name": "12.5"
+    },
+    {
+        "name": "13"
+    },
+    {
+        "name": "13.5"
+    }
+    ],
+    "color": [
+        {
+        "name": "Black"
+        },
+        {
+            "name": "Blue"
+        },
+        {
+            "name": "Brown"
+        },
+        {
+            "name": "Cream"
+        },
+        {
+            "name": "Green"
+        },
+        {
+            "name": "Grey"
+        },
+        {
+            "name": "Pink"
+        },
+        {
+            "name": "Purple"
+        },
+        {
+            "name": "Red"
+        },
+        {
+            "name": "White"
+        }
+    ],
+    "years": [
+        {
+            "name": "1997"
+        },
+        {
+            "name": "1998"
+        },
+        {
+            "name": "1999"
+        },
+        {
+            "name": "2000"
+        },
+        {
+            "name": "2001"
+        },
+        {
+            "name": "2002"
+        },
+        {
+            "name": "2003"
+        },
+        {
+            "name": "2004"
+        },
+        {
+            "name": "2005"
+        },
+        {
+            "name": "2006"
+        },
+        {
+            "name": "2007"
+        },
+        {
+            "name": "2008"
+        },
+        {
+            "name": "2009"
+        },
+        {
+            "name": "2010"
+        },
+        {
+            "name": "2011"
+        },
+        {
+            "name": "2012"
+        },
+        {
+            "name": "2013"
+        },
+        {
+            "name": "2014"
+        },
+        {
+            "name": "2015"
+        },
+        {
+            "name": "2016"
+        },
+        {
+            "name": "2017"
+        },
+        {
+            "name": "2018"
+        },
+        {
+            "name": "2019"
+        },
+        {
+            "name": "2020"
+        },
+        {
+            "name": "2021"
+        },
+        {
+            "name": "2022"
+        },
+        {
+            "name": "2023"
+        }
+    ] 
+}

@@ -1,0 +1,7 @@
+{
+    "query": "sneakers",
+    "hitsPerPage": 40,
+    "page": 1,
+    "facetFilters": [],
+    "numericFilters": []
+}
